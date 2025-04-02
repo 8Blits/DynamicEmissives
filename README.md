@@ -5,7 +5,7 @@
 *GLOW UP! **Supports 1.21.4+***
 </div>
 
-Fully emissive and transparent emissive blocks, display entities, particles, paintings, and any other entity!
+Fully emissive and transparent emissive blocks, display entities, particles, paintings, and any other entity! Inspired by ShockMicro's [VanillaDynamicEmissives](https://github.com/ShockMicro/VanillaDynamicEmissives).
 
 ## 🔧 How to use
 - Set the opacity of a pixel to `252` to make it emissive.

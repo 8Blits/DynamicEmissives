@@ -9,7 +9,7 @@ Fully emissive and transparent emissive blocks, display entities, particles, pai
 
 ## 🔧 How to use
 - Set the opacity of a pixel to `252` to make it emissive.
-- The default transparent emissive opacity values include: `2`, `27`, `52`, `77`, `102`, `127`, `152`, `177`, `202`, and `227`. You can really easily add/remove opacity values in [*shaders/include/config/dynamic_emissives_config.glsl*](assets\minecraft\shaders\include\config\dynamic_emissives_config.glsl).
+- The default transparent emissive opacity values include: `2`, `27`, `52`, `77`, `102`, `127`, `152`, `177`, `202`, and `227`. You can really easily add/remove opacity values in [*shaders/include/config/dynamic_emissives_config.glsl*](assets/minecraft/shaders/include/config/dynamic_emissives_config.glsl).
 
 ## ⚠️ Disclaimer
 This will likely break in optifine! If it does, I do not have any intentions to fix it.

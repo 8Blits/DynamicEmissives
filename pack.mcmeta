@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 55,
+    "supported_formats": {
+      "min_inclusive": 46,
+      "max_inclusive": 55
+    },
     "description": "§b§lDynamic Emissives §b1.21.4+\n§8© 8Blits"
   }
 }
